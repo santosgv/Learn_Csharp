@@ -5,6 +5,14 @@ namespace Myapp
 {
     class Program
     {
+        //enum DiasUteisSemana
+        //{
+        //    Segunda,
+        //    terca,
+        //    quarta,
+        //    quinta,
+        //    sexta
+        //};
         static void Main(string[] args)
         {
             // realizando calculo apartir de inputs
@@ -23,7 +31,8 @@ namespace Myapp
             //Nomes.Add("Vitoria");
             //Console.WriteLine(" Posicao iniciao " + Nomes[0] +" de um tamanho de "+Nomes.Count+" a Lista");
 
-
+            //var dia = DiasUteisSemana.Segunda;
+            //Console.Write("Hoje e " + dia);
         }
     }
 }
