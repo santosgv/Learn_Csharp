@@ -171,6 +171,14 @@ namespace Myapp
             //    }
             //}
             //Console.WriteLine($"The sum is {soma}");
+            printando();
+            Console.ReadLine();
+        }
+        // criando funçao
+        static void printando()
+        {
+            Console.WriteLine(" Ola mundo");
         }
     }
 }
+
