@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vitorgomes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vitorgomes\\.nuget\\packages"
+    ]
+  }
+}

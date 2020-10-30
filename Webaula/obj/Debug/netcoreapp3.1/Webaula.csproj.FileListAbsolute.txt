@@ -1,0 +1,13 @@
+C:\Users\vitorgomes\source\repos\Teste\Webaula\bin\Debug\netcoreapp3.1\Webaula.exe
+C:\Users\vitorgomes\source\repos\Teste\Webaula\bin\Debug\netcoreapp3.1\Webaula.deps.json
+C:\Users\vitorgomes\source\repos\Teste\Webaula\bin\Debug\netcoreapp3.1\Webaula.runtimeconfig.json
+C:\Users\vitorgomes\source\repos\Teste\Webaula\bin\Debug\netcoreapp3.1\Webaula.runtimeconfig.dev.json
+C:\Users\vitorgomes\source\repos\Teste\Webaula\bin\Debug\netcoreapp3.1\Webaula.dll
+C:\Users\vitorgomes\source\repos\Teste\Webaula\bin\Debug\netcoreapp3.1\Webaula.pdb
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.csprojAssemblyReference.cache
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.AssemblyInfoInputs.cache
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.AssemblyInfo.cs
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.csproj.CoreCompileInputs.cache
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.dll
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.pdb
+C:\Users\vitorgomes\source\repos\Teste\Webaula\obj\Debug\netcoreapp3.1\Webaula.genruntimeconfig.cache
